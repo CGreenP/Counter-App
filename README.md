@@ -1,5 +1,5 @@
 # Counter-App
-A Simple Counter App in Android.
+A Simple Counter App in Android that increases the count number on click of the button.
 
 # Greetings-App apk file
 https://github.com/CGreenP/Counter-App/releases/download/v1.0.0/CounterApp.apk
