@@ -4,11 +4,20 @@ A Simple Counter App in Android that increases the count number on click of the 
 Inspired by the Udemy course on [**The Complete Android 15 Course -Build 82 Apps [Java& Kotlin]**](https://www.udemy.com/course/the-complete-android-10-developer-course-mastering-android/) Created by [Abbass Masri](https://www.udemy.com/user/mahmoud-masri-7/).
 
 # Understood and Implemented concepts-
-* Views & Widgets
-* TextView
-* Button
-* Set particular image as background
-* setOnClickListener()
+* Android Components
+  * Activity
+    * State Changes
+      * onSaveInstanceState(@NonNull Bundle outState)
+* Static User Interface
+  * Views & Widgets
+    * TextView
+    * Button
+      * setOnClickListener()
+  * ViewGroup
+    * ConstraintLayout
+* UI Resources
+  * Drawables
+    * Set particular image as background
 
 # Extra features and functions added by me-
 * On device rotation the counter number remains same. (used onSaveInstanceState())
